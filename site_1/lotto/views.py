@@ -7,3 +7,4 @@ def index(request):
 
 def hello(request):
     return HttpResponse("<h1 style='color:red;'>Hello, world!")
+
